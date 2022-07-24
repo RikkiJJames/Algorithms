@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-
-
 #Leetcode 217
 
 def contains_duplicate(nums):
